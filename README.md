@@ -1,5 +1,4 @@
 # Extract Unique Element
 Hello World
-hello
 
-hekelle
+THis project is to develop a bash shell
